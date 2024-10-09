@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "projects": {
+    "weather_app": {
+      "canister_id": "canister di sini",
+      "source": [
+        {
+          "path": "src/backend",
+          "type": "motoko"
+        },
+        {
+          "path": "src/frontend",
+          "type": "react"
+        }
+      ],
+      "dependencies": [],
+      "dfx_version": "0.23.0" // Sesuaikan dengan versi dfx yang kamu gunakan
+    }
+  }
+}

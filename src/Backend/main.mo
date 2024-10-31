@@ -32,4 +32,20 @@ actor WeatherApp {
             };
         }
     };
+public query func getNews(): async [Text] {
+        let apiKey = "YOUR_API_KEY";
+        let url = "https://newsapi.org/v2/everything?q=currency&apiKey=" # apiKey;
+        
+        let response = await Http.get(url);
+        switch (response) {
+            case (result) {
+                // Parse response JSON dan ambil data harga
+                return [...]; // Kembalikan daftar harga
+            };
+            case (err) {
+                return ["Gagal mengambil harga."];
+            };
+        }
+    };
+
 };

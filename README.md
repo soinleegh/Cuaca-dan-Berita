@@ -1,6 +1,6 @@
 ## Deskripsi Aplikasi Cuaca dan Berita
 
-**Aplikasi Cuaca dan Berita** adalah solusi praktis untuk memantau kondisi cuaca terkini dan mendapatkan berita terbaru yang relevan. Dirancang untuk kemudahan pengguna, aplikasi ini memungkinkan kamu untuk:
+**Aplikasi Cuaca berita dan harga** adalah solusi praktis untuk memantau kondisi cuaca terkini dan mendapatkan berita terbaru yang relevan. Dirancang untuk kemudahan pengguna, aplikasi ini memungkinkan kamu untuk:
 
 - **Mendapatkan Informasi Cuaca Terkini**: Cukup masukkan lokasi yang kamu inginkan untuk mengetahui suhu, kelembapan, dan kondisi cuaca saat ini.
 - **Simpan Lokasi Favorit**: Simpan lokasi cuaca favoritmu untuk akses cepat di masa depan.
